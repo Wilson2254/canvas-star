@@ -1,0 +1,11 @@
+.canvas-container__item--big canvas{
+    width: 600px;
+    height: 600px;
+    background: red;
+}
+
+.canvas-container__item--small canvas{
+    width: 600px;
+    height: 50px;
+    background: blue;
+}
